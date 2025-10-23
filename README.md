@@ -168,15 +168,7 @@ Le programme démontre :
 - Pas de gestion multi-threading (pas thread-safe)
 - Modes de fichiers limités ('r', 'w', 'a')
 
-## 🛠️ Améliorations futures
 
-- [ ] Implémentation de `mini_malloc()` et `mini_realloc()`
-- [ ] Support complet du formatage dans `mini_printf()`
-- [ ] Coalescence des blocs mémoire libres
-- [ ] Ajout de `mini_fprintf()` et `mini_fscanf()`
-- [ ] Tests unitaires automatisés
-- [ ] Gestion des modes binaires pour les fichiers
-- [ ] Optimisation de l'allocateur (Best Fit, Buddy System)
 
 ## 📚 Ressources
 
